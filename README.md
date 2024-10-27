@@ -13,6 +13,7 @@ I am a frontend developer and boardgame geek.
     <img src="https://shields.io/badge/obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=fff">
     <img src="https://shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff">
     <img src="https://shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff">
+    <img src="https://shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff">
     <img src="https://shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=fff">
     <img src="https://shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=fff">
     <img src="https://shields.io/badge/Rollup.js-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=fff">
