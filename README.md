@@ -1,6 +1,6 @@
 # Hi, I'm Ruslan Kolodich
 
-I am a frontend developer and boardgame geek.
+I am a frontend developer and a board game geek.
 
 ## Languages and Tools
 
